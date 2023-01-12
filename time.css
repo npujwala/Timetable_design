@@ -1,0 +1,64 @@
+.day{
+	color:forestgreen;
+	background-color: limegreen;
+}
+.mma
+{
+   color: deeppink;
+   background-color: yellow;
+}
+.ooad{
+    color: greenyellow;
+    background-color: lightskyblue;
+}
+.dccn{
+  color: violet;
+  background-color:lightpink;
+}
+.eaa{
+  color: purple;
+  background-color: lightslategray;
+}
+.iei{
+   color: darkblue;
+   background-color:lightcyan;
+}
+.pe{
+  color: darkorange;
+  background-color: olive;
+}
+.ai{
+ color: darkpurple;
+ background-color: gold;
+}
+.flat{
+  color: darkkhaki;
+  background-color:linen;
+}
+.sca{
+ color:aquamarine;
+ background-color: lightgoldenrodyellow;
+}
+.itca{
+	color: indigo;
+	background-color: lightcoral;
+}
+.lib{
+ color: darksalmon;
+ background-color:lemonchiffon;
+}
+.men{
+ color: darkgreen;
+ background-color: olivedrab;
+}
+.design{
+	border-width: 30px;
+	border-height: 60px;
+	border-style: solid;
+	border-collapse: collapse;
+  border-color: goldenrod;
+
+}
+.row{
+	color: lightskyblue;
+}
